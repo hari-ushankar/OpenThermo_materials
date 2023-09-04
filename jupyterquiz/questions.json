@@ -1,0 +1,146 @@
+[
+    {
+        "question": "The Energy Conservation principle is best related to: ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "First law of thermodynamics",
+                "correct": true,
+                "feedback": "Correct!"
+            },
+            {
+                "answer": "Newton's first law",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Newton's second law",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Second law of Thermodynamics",
+                "correct": false,
+                "feedback": "False."
+            }
+        ]
+    },
+    
+    {
+        "question": "calculate the total energy of a system including 10J of kinetic and 5J of potential energy?",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 15,
+                "correct": true,
+                "feedback": "Awesome!"
+            },
+            {
+                "type": "value",
+                "value": 15.00,
+                "correct": true,
+                "feedback": "Bazinga!"
+            },
+            {
+                "type": "default",
+                "correct": false,
+                "feedback": "Try again."
+            }
+        ]
+    },
+    {
+        "question": "The area under the curve for a P-v diagram represents: ",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Change in enthalpy",
+                "correct": false,
+                "feedback": "Try again!"
+            },
+            {
+                "answer": "Specific boundary work",
+                "correct": false,
+                "feedback": "False."
+            },
+            {
+                "answer": "Boundary work",
+                "correct": true,
+                "feedback": "Bazinga!"
+            },
+            {
+                "answer": "Change in specific energy",
+                "correct": false,
+                "feedback": "False."
+            }
+        ]
+    },
+    {
+        "question": "Consider air going through a polytropic pressurizing process with n=1.1 in which its pressure is doubled; calculate the volume of air after the process if its initial volume was 1.5 litres (round to one decimal digit and write your answer in litres): ",
+        "type": "numeric",
+        "answers":[
+            {
+                "type": "value",
+                "value": 0.8,
+                "correct": true,
+                "feedback": "Awesome!"
+            },
+            {
+                "type": "value",
+                "value": 0.800,
+                "correct": true,
+                "feedback": "Bazinga!"
+            },
+            {
+                "type": "default",
+                "correct": false,
+                "feedback": "Try again."
+            }
+        ]
+    },
+    {
+        "question": "Calculate the amount of boundary work (in Joules) associated with this process if the initial pressure of air was 100kPa: ",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 100,
+                "correct": true,
+                "feedback": "Awesome!"
+            },
+            {
+                "type": "value",
+                "value": 100,
+                
+                "correct": true,
+                "feedback": "Bazinga!"
+            },
+            {
+                "type": "default",
+                "correct": false,
+                "feedback": "Try again."
+            }
+        ]
+
+         
+    },
+    {
+        "question": "A spring with a constant 100N/m is squeezed for 10mm from rest; estimate the amount of work (in mJ) required: ",
+        "type": "numeric",
+        "answers": [
+            {
+                "type": "value",
+                "value": 5,
+                "correct": true,
+                "feedback": "Awesome!"
+            },
+            
+            {
+                "type": "default",
+                "correct": false,
+                "feedback": "Try again."
+            }
+        ]
+    }
+
+ ]
